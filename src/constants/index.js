@@ -227,11 +227,11 @@ const testimonials = [
     imgPath: "/images/collab3.png",
   },
   {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
+    name: "John Michael Oriola",
+    mentions: "",
     review:
-      "Edrick was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
+      "Edrick did an outstanding job as our web developer. He was easy to communicate with, always professional, and very responsive throughout the entire project. His work was high-quality, well-structured, and delivered on time with minimal need for revisions. Edrick’s reliability and attention to detail made the whole process smooth and stress-free. I highly recommend him to anyone looking for a skilled and dependable developer.",
+    imgPath: "/images/collab4.png",
   },
   {
     name: "Anonymous",
