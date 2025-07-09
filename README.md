@@ -39,3 +39,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/3D-Interactive-Portfolio.git
 cd 3D-Interactive-Portfolio
+
+---
+
+## 🙏 Special Thanks
+💡 Special thanks to JavaScript Mastery for the guidance and inspiration that helped shape this project.
